@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoEnums", "DemoEnums\DemoEnums.csproj", "{49DD6AA0-C815-43BD-9B9C-C80652A77EFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoEnumsDagen", "DemoEnumsDagen\DemoEnumsDagen.csproj", "{B435524C-EFEC-4AD4-A656-BA3535108057}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumBijSwitch", "EnumBijSwitch\EnumBijSwitch.csproj", "{2A0510D9-77B4-4573-8083-7CB27A719597}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoEnumKoffie", "DemoEnumKoffie\DemoEnumKoffie.csproj", "{F2821931-0887-4E5D-A0D6-D0907B8D9135}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo_WeekdagEnumeratie", "Demo_WeekdagEnumeratie\Demo_WeekdagEnumeratie.csproj", "{DDC290C0-8F49-47F9-99ED-4A11F62E22F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumAlsTerugkeerWaardeMethode", "EnumAlsTerugkeerWaardeMethode\EnumAlsTerugkeerWaardeMethode.csproj", "{D77FAE91-EC53-4031-949E-00236F82417E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DD6AA0-C815-43BD-9B9C-C80652A77EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DD6AA0-C815-43BD-9B9C-C80652A77EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DD6AA0-C815-43BD-9B9C-C80652A77EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DD6AA0-C815-43BD-9B9C-C80652A77EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B435524C-EFEC-4AD4-A656-BA3535108057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B435524C-EFEC-4AD4-A656-BA3535108057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B435524C-EFEC-4AD4-A656-BA3535108057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B435524C-EFEC-4AD4-A656-BA3535108057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0510D9-77B4-4573-8083-7CB27A719597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0510D9-77B4-4573-8083-7CB27A719597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0510D9-77B4-4573-8083-7CB27A719597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0510D9-77B4-4573-8083-7CB27A719597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2821931-0887-4E5D-A0D6-D0907B8D9135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2821931-0887-4E5D-A0D6-D0907B8D9135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2821931-0887-4E5D-A0D6-D0907B8D9135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2821931-0887-4E5D-A0D6-D0907B8D9135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC290C0-8F49-47F9-99ED-4A11F62E22F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC290C0-8F49-47F9-99ED-4A11F62E22F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC290C0-8F49-47F9-99ED-4A11F62E22F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC290C0-8F49-47F9-99ED-4A11F62E22F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77FAE91-EC53-4031-949E-00236F82417E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77FAE91-EC53-4031-949E-00236F82417E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77FAE91-EC53-4031-949E-00236F82417E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77FAE91-EC53-4031-949E-00236F82417E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8EAEDD-1862-4A4B-9EB6-7618D623FAE3}
+	EndGlobalSection
+EndGlobal
